@@ -3,10 +3,10 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title">
-          Free ecommerce template for Vue.js projects
+          PCParts
         </h1>
         <h2 class="subtitle">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+          At PCParts we will allow you to list and sell your old unwanted computer components.
         </h2>
       </div>
     </div>
@@ -15,9 +15,10 @@
 
 <style lang="scss" scoped>
     .hero {
-      background: rgb(81, 186, 252);
+      background: #3366ff;
     }
     h1, h2 {
       color: #fff;
+      text-align: center;
     }
 </style>
